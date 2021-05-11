@@ -1,0 +1,12 @@
+{
+  "name": "ScrollList",
+  "displayName": "ScrollList",
+  "expo": {
+    "name": "ScrollList",
+    "slug": "ScrollList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
